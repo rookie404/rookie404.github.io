@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-17T09:29:28.413Z</updated>
+  <updated>2019-09-17T16:58:31.566Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Owner</title>
+    <link href="http://yoursite.com/2019/09/18/Owner/"/>
+    <id>http://yoursite.com/2019/09/18/Owner/</id>
+    <published>2019-09-17T16:57:46.000Z</published>
+    <updated>2019-09-17T16:58:31.566Z</updated>
+    
+    <content type="html"><![CDATA[<p>Attention:</p><p>This is JunXu Lin’s Blog</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Attention:&lt;/p&gt;
+&lt;p&gt;This is JunXu Lin’s Blog&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>MySql</title>
